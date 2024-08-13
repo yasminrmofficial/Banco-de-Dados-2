@@ -1,0 +1,48 @@
+-- Online SQL Editor to Run SQL Online.
+-- Use the editor to create new tables, insert data and all other SQL operations.
+
+--DELETE from Customers
+
+--INSERT INTO Customers (customer_id, first_name, last_name) VALUES (1, "Luiz", "Silva");
+--INSERT INTO Customers (customer_id, first_name, last_name) VALUES (2, "Mark", "Henry");
+--INSERT INTO Customers (customer_id, first_name, last_name) VALUES (3, "Jay", "Davis");
+--INSERT INTO Customers (customer_id, first_name, last_name) VALUES (4, "Lindsay", "Lee");
+--INSERT INTO Customers (customer_id, first_name, last_name) VALUES (5, "Serjan", "Park");
+  
+--DELETE from Customers WHERE customer_id = 1
+
+--INSERT INTO Customers (customer_id, first_name, last_name) VALUES ("1", "Mishel", "Henry");
+--UPDATE Customers SET first_name = "James" WHERE customer_id = 1;
+--UPDATE Customers SET last_name = "Henryy" WHERE customer_id = 1;
+--DELETE from Customers WHERE customer_id = 1;
+
+
+--ALTER TABLE Customers
+--ADD COLUMN second_name;
+
+
+--UPDATE Customers SET second_name = "Souza" WHERE customer_id = 2;
+--UPDATE Customers SET second_name = "Souza" WHERE customer_id = 3;
+--UPDATE Customers SET second_name = "Souza" WHERE customer_id = 4;
+--UPDATE Customers SET second_name = "Souza" WHERE customer_id = 5;
+
+
+--SELECT second_name FROM Customers
+
+--INSERT INTO Customers (customer_id, first_name, last_name) VALUES (1, "Jim", "Hendrix");
+
+--SELECT first_name FROM Customers WHERE customer_id = 2;
+
+--UPDATE Customers SET first_name = "Roselyn", last_name = "Alvarez" WHERE customer_id = 2;
+
+--UPDATE Customers SET first_name = "Michel";
+--UPDATE Customers SET last_name = "Kyle"
+
+
+
+--SELECT *from Customers
+
+--DELETE from Customers
+
+
+
